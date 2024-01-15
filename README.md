@@ -15,7 +15,7 @@
 </p>
 
                                                                                                   
-### Recursos Principais:
+## 🔨 Recursos Principais:
 
 - `Cadastro de Usuário` Endpoint para registrar novos usuários com informações como nome, e-mail e senha.
 - `Login de Usuário` Endpoint para autenticar usuários e fornecer tokens de acesso JWT para autorização subsequente.
@@ -25,3 +25,37 @@
 
 <br></br>
 Esta API foi projetada com ênfase na segurança, implementando práticas como HTTPS, hashing de senhas e políticas de autorização. Sinta-se à vontade para explorar o código-fonte, contribuir com melhorias ou utilizar esta API como base para seus projetos. Qualquer feedback é bem-vindo!</p>
+
+## 🛠️ Abrir e rodar o projeto
+
+### Pré-requisitos
+Certifique-se de ter o seguinte instalado em sua máquina:
+- [Java JDK 17](https://www.oracle.com/java/technologies/downloads/#java17)
+- [Gradle](https://gradle.org/)
+
+### Configuração do Banco de Dados
+
+- Abra o projeto na sua IDE favorita.
+- No diretório src/main/resources, encontre o arquivo application.properties e configure as seguintes propriedades para conectar ao seu banco de dados local:
+  
+```properties
+spring.datasource.url=jdbc:mysql://localhost:3306/seu_banco_de_dados
+spring.datasource.username=sua_usuario
+spring.datasource.password=sua_senha
+```
+
+### Como Rodar o Projeto
+
+- ./gradlew build
+- ./gradlew bootRun
+
+## Contribuindo 
+
+Se você quiser contribuir para este projeto, por favor, siga os passos abaixo:
+
+- Crie um fork do projeto.
+- Crie uma branch para a sua contribuição: `git checkout -b feature/nova-funcionalidade`.
+- Faça as alterações desejadas.
+- Faça o commit das suas alterações: `git commit -m 'Adiciona nova funcionalidade`.
+- Faça o push para a sua branch: `git push origin feature/nova-funcionalidade`.
+- Abra um pull request.
