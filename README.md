@@ -5,7 +5,9 @@
 
 <p> Bem-vindo ao repositório da API de Gerenciamento de Usuários! Esta API fornece funcionalidades essenciais para registro, autenticação e gestão de informações de usuários. </p>
 <p>Desenvolvida utilizando Java e Spring Boot, a API oferece uma solução robusta para aplicações que necessitam de autenticação segura e controle de acesso.</p>
-<br></br>
+
+
+## Tecnologias Utilizadas
 
 <p display="inline-block">
   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java-logo"/>
