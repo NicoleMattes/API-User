@@ -2,10 +2,10 @@
 <p align="center"><i>Repositório para versionamento e documentação do projeto durante o seu desenvolvimento</i></p>
 
 - [Sobre o projeto](https://github.com/NicoleMattes/API-User/edit/main/README.md#sparkles-sobre-este-projeto)
-- [Tecnologias Utilizadas]()
-- [Recursos Principais]()
-- [Abrir e rodar o projeto]()
-- [Contribuindo]()
+- [Tecnologias Utilizadas](https://github.com/NicoleMattes/API-User/blob/main/README.md#space_invader-tecnologias-utilizadas)
+- [Recursos Principais](https://github.com/NicoleMattes/API-User/blob/main/README.md#-recursos-principais)
+- [Abrir e rodar o projeto](https://github.com/NicoleMattes/API-User/blob/main/README.md#%EF%B8%8F-abrir-e-rodar-o-projeto)
+- [Contribuindo](https://github.com/NicoleMattes/API-User/blob/main/README.md#pencil2-contribuindo)
 <br>
 
 
