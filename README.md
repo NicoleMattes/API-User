@@ -1,23 +1,31 @@
 <h1 align="center">API-User</h1>
 <p align="center"><i>Repositório para versionamento e documentação do projeto durante o seu desenvolvimento</i></p>
 
-##  Sobre este projeto
+- [Sobre o projeto](https://github.com/NicoleMattes/API-User/edit/main/README.md#sparkles-sobre-este-projeto)
+- [Tecnologias Utilizadas]()
+- [Recursos Principais]()
+- [Abrir e rodar o projeto]()
+- [Contribuindo]()
+<br>
+
+
+## :sparkles: Sobre este projeto 
 
 <p> Bem-vindo ao repositório da API de Gerenciamento de Usuários! Esta API fornece funcionalidades essenciais para registro, autenticação e gestão de informações de usuários. </p>
 <p>Desenvolvida utilizando Java e Spring Boot, a API oferece uma solução robusta para aplicações que necessitam de autenticação segura e controle de acesso.</p>
+<br>
 
-
-## Tecnologias Utilizadas
+## :space_invader: Tecnologias Utilizadas 
 
 <p display="inline-block">
-  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java-logo"/>
-  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="spring-logo"/>
-  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql-logo"/>
-  <img width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin-logo"/>
+      <img align="center" alt="Nick-Java"  src= "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+      <img align="center" alt="Nick-Spring"  src= "https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot">
+      <img align="center" alt="Nick-Spring"  src= "https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
+      <img align="center" width="63" alt="Nick-mysql"  src= "https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
-
+<br>
                                                                                                   
-## 🔨 Recursos Principais:
+## 🔨 Recursos Principais: 
 
 - `Cadastro de Usuário` Endpoint para registrar novos usuários com informações como nome, e-mail e senha.
 - `Login de Usuário` Endpoint para autenticar usuários e fornecer tokens de acesso JWT para autorização subsequente.
@@ -27,8 +35,8 @@
 
 <br></br>
 Esta API foi projetada com ênfase na segurança, implementando práticas como HTTPS, hashing de senhas e políticas de autorização. Sinta-se à vontade para explorar o código-fonte, contribuir com melhorias ou utilizar esta API como base para seus projetos. Qualquer feedback é bem-vindo!</p>
-
-## 🛠️ Abrir e rodar o projeto
+<br>
+## 🛠️ Abrir e rodar o projeto 
 
 ### Pré-requisitos
 Certifique-se de ter o seguinte instalado em sua máquina:
@@ -51,7 +59,9 @@ spring.datasource.password=sua_senha
 - ./gradlew build
 - ./gradlew bootRun
 
-## Contribuindo 
+<br>
+  
+## :pencil2: Contribuindo 
 
 Se você quiser contribuir para este projeto, por favor, siga os passos abaixo:
 
