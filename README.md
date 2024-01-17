@@ -1,5 +1,6 @@
 <h1 align="center">API-User</h1>
 <p align="center"><i>Repositório para versionamento e documentação do projeto durante o seu desenvolvimento</i></p>
+<br>
 
 - [Sobre o projeto](https://github.com/NicoleMattes/API-User/edit/main/README.md#sparkles-sobre-este-projeto)
 - [Tecnologias Utilizadas](https://github.com/NicoleMattes/API-User/blob/main/README.md#space_invader-tecnologias-utilizadas)
